@@ -1,6 +1,10 @@
 # Building-a-Content-Based-Movie-Recommender-System.
 ## Applying Content-Based filtering and Matrix-Algebra to build a Movie-Recommender-System with Pandas.
 
+<p align="center">
+  <img src="https://github.com/Lawrence-Krukrubo/Building-a-Content-Based-Movie-Recommender-System/blob/master/content-based-filter.jpg?raw=true" height = 400 width=600 alt="recommender syatems">
+</p>
+
 ### Definition of Recommender Systems:
 Recommendation systems are a collection of algorithms used to recommend items to users based on information taken from the user. 
 These systems have become ubiquitous, and can be commonly seen in online stores, movies databases and job finders. 
@@ -55,8 +59,8 @@ Tasks here include:-
 
 A better solution is a **Hybrid-Recommender-System** that combines both Content-Based-Filtering and Collaborative-Filtering to proffer personalised as well as generally popular and preferred movies by Users who are similar to the User.
 
-### Further Insights:
-Kindly see my article on this Project in The Medium. I have spent some time explaining all the codes and processes to build a Recommender System using only Pandas. 
+### Blog-Post:
+Kindly see my article on this Project in The Medium. I have spent quality time explaining all the codes and processes to build a Recommender System using only Pandas. 
 * [link](https://medium.com/towards-artificial-intelligence/building-a-recommender-system-with-pandas-1ca0bb03fdce)
 
 ### License:
